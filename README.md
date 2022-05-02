@@ -1,2 +1,3 @@
 # Academic-English-Learning-Diary
-Being ready to the University of Toronto
+
+Preparing for study at the University of Toronto
